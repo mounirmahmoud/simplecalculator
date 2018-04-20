@@ -1,6 +1,6 @@
 :linkattrs:
 
-= Simple Calculator -
+= Simple Calculator  -
 
 Demo project for Spring Boot which provides a simple calculator service which will
 be consumed by link:../helloboot-discovery/README.adoc[helloboot-discovery] application using
